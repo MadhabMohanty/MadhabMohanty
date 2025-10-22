@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 Final-year **B.Tech in Computer Science & Engineering** at **SOA University, ITER Bhubaneswar**  
+- 🎓 **B.Tech in Computer Science & Engineering** at **SOA University, ITER Bhubaneswar**  
 - 💻 I’m passionate about **Software Development, Cloud Computing, and AI/ML**  
 - ⚙️ I enjoy working with **Java, Python, SQL, Spring Boot, and APIs**  
 - ☁️ Certified in **AWS Academy Cloud Foundations** and multiple **AWS Skill Builder badges**  
